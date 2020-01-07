@@ -1,0 +1,10 @@
+logWarningMask=0
+logInfoMask=0x0
+logVerboseMask=0x0
+logConfigMask=0x0
+overrideLogLevels=0x1
+multiCameraEnable=TRUE
+enableSensorHWSync=TRUE
+enableSensorFpsMatch=TRUE
+multiCameraFrameSync=1
+multiCamera3ASync=MultiCamera3ASyncQTI

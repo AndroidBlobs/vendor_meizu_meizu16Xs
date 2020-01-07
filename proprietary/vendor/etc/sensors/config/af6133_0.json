@@ -1,0 +1,27 @@
+{
+  "config":{
+    "hw_platform": ["MTP", "Dragon", "Surf", "QRD","IDP"],
+    "soc_id": ["291", "246", "355"]
+  },
+  "af6133_0":{
+    "owner": "sns_af6133",
+    ".mag":{
+      "owner": "sns_af6133",
+      ".config":{
+        "owner": "sns_af6133",
+        "is_dri":{ "type": "int", "ver": "0",
+          "data": "0"
+        },
+        "hw_id":{ "type": "int", "ver": "0",
+          "data": "0"
+        },
+        "res_idx":{ "type": "int", "ver": "0",
+          "data": "0"
+        },
+        "sync_stream":{ "type": "int", "ver": "0",
+          "data": "0"
+        }
+      }
+    }
+  }
+}
